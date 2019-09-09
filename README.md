@@ -1,3 +1,5 @@
+
+
 # Coding test with Nextjs
 
 This repository is used as a code base for the code test. It uses the latest version of Nextjs, React, React testing library with TypeScript
